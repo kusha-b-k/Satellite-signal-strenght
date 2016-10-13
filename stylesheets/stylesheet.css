@@ -423,3 +423,113 @@ Small Device Styles
   }
 
 }
+
+body {
+   background-color: #000000;
+ }
+
+ .button {
+   background-color: #F8BBD0;
+   border: none;
+   color: #F8BBD0;
+   padding: 15px 1px;
+   text-align: center;
+   text-decoration: none;
+   display: inline-block;
+   margin: 4px 2px;
+   cursor: pointer;
+ }
+
+ .button1 {
+   font-size: 2px;
+   animation: fill 1s infinite linear;
+ }
+
+ .button2 {
+   font-size: 9px;
+   animation: fill 1s infinite linear;
+ }
+
+ .button3 {
+   font-size: 15px;
+   animation: fill 1s infinite linear;
+ }
+
+ .button4 {
+   font-size: 25px;
+   animation: fill 1s infinite linear;
+ }
+
+ .button5 {
+   font-size: 39px;
+   opacity: 0;
+   animation: fill 1s infinite linear;
+ }
+
+.button6 {
+  opacity: 0;
+   font-size: 39px;
+   animation: fill 1s infinite linear;
+ }
+.button7 {
+   font-size: 25px;
+   animation: fill 1s infinite linear;
+ }
+.button8 {
+   font-size: 15px;
+   animation: fill 1s infinite linear;
+ }
+.button9 {
+   font-size: 9px;
+   animation: fill 1s infinite linear;
+ }
+.button10 {
+   font-size: 2px;
+
+   animation: fill 1s infinite linear;
+ }
+
+
+
+
+ @keyframes fill {
+   0% {
+     opacity: 0;
+   }
+   25% {
+     opacity: 2;
+     font-size: 24px opacity: 10;
+     background-color: #536DFE;
+   }
+   35% {
+
+     font-size: 24px opacity: 10;
+     background-color: #536DFE;
+   }
+   45% {
+
+     font-size: 24px opacity: 10;
+     background-color: #536DFE;
+   }
+   50% {
+     background-color: #3D5AFE;
+   }
+   60% {
+     background-color: #3D5AFE;
+   }
+   66% {
+     background-color: #3D5AFE;
+   }
+   75% {
+     background-color: #304FFE;
+   }
+   85% {
+     background-color: #304FFE;
+   }
+   95% {
+     background-color: #304FFE;
+   }
+   100% {
+     background-color: #304FFE;
+   }
+ }
