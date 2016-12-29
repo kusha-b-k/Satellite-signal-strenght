@@ -88,37 +88,3 @@ SOFTWARE.
   font-weight: bold;
   color: #1d3e81;
 }
-
-.pl-mq /* markup.quote */ {
-  color: #008080;
-}
-
-.pl-mi /* markup.italic */ {
-  font-style: italic;
-  color: #333;
-}
-
-.pl-mb /* markup.bold */ {
-  font-weight: bold;
-  color: #333;
-}
-
-.pl-md /* markup.deleted, meta.diff.header.from-file */ {
-  color: #bd2c00;
-  background-color: #ffecec;
-}
-
-.pl-mi1 /* markup.inserted, meta.diff.header.to-file */ {
-  color: #55a532;
-  background-color: #eaffea;
-}
-
-.pl-mdr /* meta.diff.range */ {
-  font-weight: bold;
-  color: #795da3;
-}
-
-.pl-mo /* meta.output */ {
-  color: #1d3e81;
-}
-
