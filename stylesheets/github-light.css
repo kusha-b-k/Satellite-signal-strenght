@@ -19,13 +19,6 @@
   color: #333;
 }
 
-.pl-ent /* entity.name.tag */ {
-  color: #63a35c;
-}
-
-.pl-k /* keyword, storage, storage.type */ {
-  color: #a71d5d;
-}
 
 .pl-s /* string */,
 .pl-pds /* punctuation.definition.string, string.regexp.character-class */,
@@ -57,11 +50,4 @@
 
 .pl-ml /* markup.list */ {
   color: #693a17;
-}
-
-.pl-mh /* markup.heading */,
-.pl-mh .pl-en /* markup.heading entity.name */,
-.pl-ms /* meta.separator */ {
-  font-weight: bold;
-  color: #1d3e81;
 }
