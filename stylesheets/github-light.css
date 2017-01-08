@@ -15,7 +15,7 @@
   background-color: #b52a1d;
 }
 
-.pl-sr .pl-cce /* string.regexp constant.character.escape */ {
+\pl-sr .pl-cce /* string.regexp constant.character.escape */ {
   font-weight: bold;
   color: #63a35c;
 }
